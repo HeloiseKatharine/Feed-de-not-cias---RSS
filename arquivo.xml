@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World News</title>
+    <link>https://www.nytimes.com/section/world?emc=rss&amp;partner=rss</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2019 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 27 Nov 2019 02:06:04 +0000</lastBuildDate>
+    <image>
+      <title>NYT &gt; World News</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world?emc=rss&amp;partner=rss</link>
+    </image>
+    <item>
+      <title>Beijing Was Confident Its Hong Kong Allies Would Win. After the Election, It Went Silent.</title>
+      <link>https://www.nytimes.com/2019/11/26/world/asia/china-hong-kong-protests-election.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/asia/china-hong-kong-protests-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/asia/china-hong-kong-protests-election.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Since the big loss for the pro-Beijing camp,  Chinese state media has resorted to a favorite tactic by blaming the United States, a nationalistic message that plays well to the masses at home.</description>
+      <dc:creator>Javier C. Hernández</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 12:35:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/world/26china-media1/26china-media1-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>Supporters of Hong Kong’s pro-democracy movement celebrating on the streets outside a polling station in Tuen Mun, Hong Kong, early Monday.</media:description>
+    </item>
+    <item>
+      <title>A Montreal Bagel War Unites Rival Kings</title>
+      <link>https://www.nytimes.com/2019/11/26/world/canada/montreal-bagels-fairmont-st-viateur.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/canada/montreal-bagels-fairmont-st-viateur.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/canada/montreal-bagels-fairmont-st-viateur.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A culinary symbol of Montreal has become ensnared in a battle pitting environmentalists against bagel-loving traditionalists.</description>
+      <dc:creator>Dan Bilefsky</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 21:55:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bagels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">St-Viateur Bagel (Montreal, Quebec)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fairmount Bagel (Montreal, Quebec)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/21/world/00montreal-bagel-dispatch/00montreal-bagel-dispatch-moth.jpg" width="151"></media:content>
+      <media:credit>Chris Wattie for The New York Times</media:credit>
+      <media:description>Fresh bagels being removed from a wood-burning oven at Fairmount Bagel, a Montreal institution.</media:description>
+    </item>
+    <item>
+      <title>Albania Earthquake Kills at Least 23</title>
+      <link>https://www.nytimes.com/2019/11/25/world/europe/albania-earthquake-tirana.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/europe/albania-earthquake-tirana.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/europe/albania-earthquake-tirana.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The 6.4-magnitude quake, one of the strongest to hit the country in decades, struck near Tirana, the capital. Hundreds of injuries were reported.</description>
+      <dc:creator>Elian Peltier, Iliana Magra and Daniel Victor</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 22:36:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tirana (Albania)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/world/26albania2/26albania2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Gent Shkullaku/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Emergency workers cleared debris after a building collapsed in Thumane. As the Albanian authorities requested international assistance, Montenegro and Serbia sent support and rescue teams.</media:description>
+    </item>
+    <item>
+      <title>U.K. Chief Rabbi Denounces Labour Party on Anti-Semitism</title>
+      <link>https://www.nytimes.com/2019/11/26/world/europe/chief-rabbi-labour-jeremy-corbyn.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/europe/chief-rabbi-labour-jeremy-corbyn.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/europe/chief-rabbi-labour-jeremy-corbyn.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The rabbi, Ephraim Mirvis, suggested the opposition party’s leader, Jeremy Corbyn, was “unfit for office,” adding that Britain’s soul was at stake in next month’s election.</description>
+      <dc:creator>Benjamin Mueller</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 22:31:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Corbyn, Jeremy (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Church of England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Welby, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ephraim Mirvis</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/world/26britain-labour1/26britain-labour1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Toby Melville</media:credit>
+      <media:description>Chief Rabbi Ephraim Mirvis called Labour’s claim to be fully addressing anti-Semitism in its ranks “a mendacious fiction.”</media:description>
+    </item>
+    <item>
+      <title>3 Afghan Schools, 165 Accounts of Students Being Raped</title>
+      <link>https://www.nytimes.com/2019/11/25/world/asia/afghan-schools-rape.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/asia/afghan-schools-rape.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/asia/afghan-schools-rape.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>An advocacy group says it has documented systematic sexual abuse  by teachers, principals and other authorities of dozens of boys in one rural area.</description>
+      <dc:creator>David Zucchino and Fatima Faizi</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 21:30:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Logar Province (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Directorate of Security (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Afghan National Security Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/00afghan-rapes1/00afghan-rapes1-moth.jpg" width="151"></media:content>
+      <media:credit>Bryan Denton for The New York Times</media:credit>
+      <media:description>The accusations in Logar Province, pictured above in 2018, point to a stunning breakdown in a relatively concentrated area.</media:description>
+    </item>
+    <item>
+      <title>Helicopter Crash in Mali Kills 13 French Troops</title>
+      <link>https://www.nytimes.com/2019/11/26/world/europe/crash-mali.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/europe/crash-mali.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/europe/crash-mali.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The midair collision of two helicopters was the deadliest incident in decades for the French military. The troops were part of a French force combating Islamist extremists.</description>
+      <dc:creator>Adam Nossiter</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 14:07:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/world/26france-mali/26france-mali-moth.jpg" width="151"></media:content>
+      <media:credit>Benoit Tessier/Reuters</media:credit>
+      <media:description>French soldiers during an operation to clear insurgents in Mali in 2017.</media:description>
+    </item>
+    <item>
+      <title>New Zealand Is Tackling Hot-Button Liberal Issues in One Swoop</title>
+      <link>https://www.nytimes.com/2019/11/26/world/asia/new-zealand-euthanasia-cannabis-abortion.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/asia/new-zealand-euthanasia-cannabis-abortion.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/asia/new-zealand-euthanasia-cannabis-abortion.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The country will decide whether to legalize assisted suicide and recreational marijuana, and whether to decriminalize abortion. Conflict-averse New Zealanders may be pushed onto uncomfortable ground.</description>
+      <dc:creator>Charlotte Graham-McLay</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 05:36:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ardern, Jacinda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Euthanasia and Assisted Suicide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/23/world/23nz-liberal-top/23nz-liberal-top-moth.jpg" width="151"></media:content>
+      <media:credit>Cornell Tukiri for The New York Times</media:credit>
+      <media:description>A hemp plant in Ruatoria, New Zealand. A referendum next year could legalize the recreational use of marijuana in the country.</media:description>
+    </item>
+    <item>
+      <title>Royal Jewels of ‘Immeasurable’ Value Are Stolen From a German Museum</title>
+      <link>https://www.nytimes.com/2019/11/25/world/europe/germany-museum-green-diamond.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/europe/germany-museum-green-diamond.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/europe/germany-museum-green-diamond.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Artifacts including diamonds, rubies and sapphires, said to be of immeasurable historical value, were taken from a display room in Dresden.</description>
+      <dc:creator>Melissa Eddy and Christopher F. Schuetze</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 01:46:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dresden (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saxony (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diamonds</category>
+    </item>
+    <item>
+      <title>Death of Colombian Teenager Drives Protesters Back to Streets</title>
+      <link>https://www.nytimes.com/2019/11/26/world/americas/colombia-protests.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/americas/colombia-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/americas/colombia-protests.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Dilan Cruz, 18, died after being struck by a police projectile. Activists call him a symbol of “a generation that was robbed of its rights.”</description>
+      <dc:creator>Alan Yuhas</dc:creator>
+      <pubDate>Wed, 27 Nov 2019 00:26:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duque, Ivan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bogota (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/27/world/27colombia/27colombia-moth.jpg" width="151"></media:content>
+      <media:credit>Fernando Vergara/Associated Press</media:credit>
+      <media:description>Students placing a Colombian flag on Tuesday at the site where Dilan Cruz was fatally wounded in Bogotá.</media:description>
+    </item>
+    <item>
+      <title>Iran Strengthens Response to Protests</title>
+      <link>https://www.nytimes.com/2019/11/26/world/middleeast/iran-protests-crackdown.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/middleeast/iran-protests-crackdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/middleeast/iran-protests-crackdown.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The authorities say “six main elements” of unrest in Tehran were arrested. Secretary of State Mike Pompeo said he had received nearly 20,000 videos and other evidence from Iran of a violent suppression.</description>
+      <dc:creator>Farnaz Fassihi and Rick Gladstone</dc:creator>
+      <pubDate>Wed, 27 Nov 2019 00:08:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/world/26IRAN-01/merlin_165067563_645b5296-fbf4-4661-a4d2-0394791f3d3f-moth.jpg" width="151"></media:content>
+      <media:credit>Alex Brandon/Associated Press</media:credit>
+      <media:description>Secretary of State Mike Pompeo speaking with reporters in Washington on Tuesday. Last week he asked Iranians to send evidence that protests had been violently suppressed during an internet blackout.</media:description>
+    </item>
+    <item>
+      <title>Sweden Investigates Iraq Defense Chief for War Crimes and Fraud</title>
+      <link>https://www.nytimes.com/2019/11/26/world/middleeast/iraq-protests-sweden-Najah-al-Shammari.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/middleeast/iraq-protests-sweden-Najah-al-Shammari.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/middleeast/iraq-protests-sweden-Najah-al-Shammari.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Iraq’s defense minister is under investigation for crimes against humanity and for claiming Swedish social benefits while he was living in Iraq.</description>
+      <dc:creator>Alissa J. Rubin and Christina Anderson</dc:creator>
+      <pubDate>Wed, 27 Nov 2019 00:24:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sweden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Najah al-Shimmeri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/world/26iraq/26iraq-moth.jpg" width="151"></media:content>
+      <media:credit>Hadi Mizban/Associated Press</media:credit>
+      <media:description>Najah al-Shammari, center, Iraq’s defense minister, at a security check point last month.</media:description>
+    </item>
+    <item>
+      <title>Pompeo Warns China to Honor ‘Human Rights Standards’ in Hong Kong</title>
+      <link>https://www.nytimes.com/2019/11/26/world/asia/pompeo-hong-kong-protests.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/asia/pompeo-hong-kong-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/asia/pompeo-hong-kong-protests.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Secretary of State Mike Pompeo did not explicitly endorse legislation to support pro-democracy activists from Chinese-backed crackdowns, but noted standards that Beijing should heed.</description>
+      <dc:creator>Lara Jakes</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 22:18:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pompeo, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/us/politics/26dc-diplo/26dc-diplo-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Wilson/Getty Images</media:credit>
+      <media:description>“We have human rights standards that we apply all across the world, and Hong Kong is no different,” Secretary of State Mike Pompeo said at a news conference at the State Department on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Albania’s Earthquake: What We Know so Far</title>
+      <link>https://www.nytimes.com/2019/11/26/world/europe/albania-quake-earthquake-what-we-know.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/europe/albania-quake-earthquake-what-we-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/europe/albania-quake-earthquake-what-we-know.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Hundreds injured, buildings toppled and many trapped in the rubble as the small Balkan nation tried to assess the damage.</description>
+      <dc:creator>Marc Santora</dc:creator>
+      <pubDate>Wed, 27 Nov 2019 00:04:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tirana (Albania)</category>
+    </item>
+    <item>
+      <title>Your Wednesday Briefing</title>
+      <link>https://www.nytimes.com/2019/11/26/briefing/your-wednesday-briefing.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/briefing/your-wednesday-briefing.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/briefing/your-wednesday-briefing.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A new climate change report, a push for legal marijuana in New Zealand and the most influential films of the decade. </description>
+      <dc:creator>Victoria Shannon</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 21:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>U.S. Envoy Says Afghans Coerced Retraction of Rape Allegations</title>
+      <link>https://www.nytimes.com/2019/11/26/world/asia/afghanistan-rapes-coerced-confession.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/asia/afghanistan-rapes-coerced-confession.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/asia/afghanistan-rapes-coerced-confession.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Ambassador John R. Bass says the Afghan spy agency used “Soviet-style tactics.”</description>
+      <dc:creator>David Zucchino and Fatima Faizi</dc:creator>
+      <pubDate>Wed, 27 Nov 2019 01:43:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Directorate of Security (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bass, John R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghani, Ashraf</category>
+    </item>
+    <item>
+      <title>A Teacher, an Artist, a Scientist and More. They’re All Visionaries.</title>
+      <link>https://www.nytimes.com/2019/11/26/world/visionaries-pushing-boundaries.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/visionaries-pushing-boundaries.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/visionaries-pushing-boundaries.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The New York Times selected people from all over the world who are pushing the boundaries in their fields, from business and technology to culture and sports.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 18:08:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Design</category>
+    </item>
+    <item>
+      <title>Saudi Arabia Is Stepping Up Crackdown on Dissent, Rights Groups Say</title>
+      <link>https://www.nytimes.com/2019/11/26/world/middleeast/saudi-arrests-journalists-activists.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/world/middleeast/saudi-arrests-journalists-activists.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/world/middleeast/saudi-arrests-journalists-activists.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>At least eight people have been arrested this month, some of whom had not expressed criticism of the government in years, the groups said.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 14:11:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khashoggi, Jamal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/world/26saudi/26saudi-moth.jpg" width="151"></media:content>
+      <media:credit>Amr Nabil/Associated Press</media:credit>
+      <media:description>A screen with pictures of King Salman of Saudi Arabia, right, and the crown prince, Mohammed bin Salman, in Riyadh.</media:description>
+    </item>
+    <item>
+      <title>Impeachment, Amazon, Albania: Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2019/11/26/briefing/impeachment-amazon-albania.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/briefing/impeachment-amazon-albania.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/briefing/impeachment-amazon-albania.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Here&#39;s what you need to know.</description>
+      <dc:creator>Chris Stanford</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 13:22:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Measles Cases Continue to Rise Around the World</title>
+      <link>https://www.nytimes.com/2019/11/26/health/measles-outbreak-epidemic.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/health/measles-outbreak-epidemic.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/health/measles-outbreak-epidemic.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Nearly a quarter of a million people in the Democratic Republic of Congo are thought to have been infected by measles in 2019 alone, the World Health Organization said.</description>
+      <dc:creator>Abdi Latif Dahir</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 12:45:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Measles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/multimedia/26xp-measles/26xp-measles-moth.jpg" width="151"></media:content>
+      <media:credit>William Daniels/Panos Pictures</media:credit>
+      <media:description>A measles immunization campaign in the Democratic Republic of Congo in 2016.</media:description>
+    </item>
+    <item>
+      <title>Lured by Deep Powder, Foreigners Are Investing in the Aspen of Japan</title>
+      <link>https://www.nytimes.com/2019/11/26/realestate/japan-skiing-niseko-resort-development.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/realestate/japan-skiing-niseko-resort-development.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/realestate/japan-skiing-niseko-resort-development.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>With some 49 feet of snow a year, Niseko in northern Japan has become a ski playground for East Asians and Australians.</description>
+      <dc:creator>Tim Hornyak</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 08:14:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skiing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hokkaido (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Niseko (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+    </item>
+    <item>
+      <title>‘Bleak’ U.N. Report on a Planet in Peril Looms Over New Climate Talks</title>
+      <link>https://www.nytimes.com/2019/11/26/climate/greenhouse-gas-emissions-carbon.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/climate/greenhouse-gas-emissions-carbon.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/climate/greenhouse-gas-emissions-carbon.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Countries  agreed to rein in emissions in an effort to avert climate catastrophes. They&#39;ve failed, according to the latest United Nations report.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 23:40:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/climate/26CLI-EMISSIONS1/26CLI-EMISSIONS1-moth.jpg" width="151"></media:content>
+      <media:credit>Drew Angerer/Getty Images</media:credit>
+      <media:description>A gas flare at a Shell refinery in Norco, La. </media:description>
+    </item>
+    <item>
+      <title>Skiing in Bulgaria? The Surprising Lure of the Balkans</title>
+      <link>https://www.nytimes.com/2019/11/26/realestate/skiing-in-bulgaria-the-surprising-lure-of-the-balkans.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/realestate/skiing-in-bulgaria-the-surprising-lure-of-the-balkans.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/realestate/skiing-in-bulgaria-the-surprising-lure-of-the-balkans.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A resort area that offers skiing, hot springs, mountain biking and horseback riding, and property at surprisingly low prices.</description>
+      <dc:creator>Gabriel Leigh</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 07:05:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skiing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bulgaria</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/30/realestate/30real-bulgaria-ski03-inyt/30real-bulgaria-ski03-inyt-moth.jpg" width="151"></media:content>
+      <media:credit>Nikolay Doychinov for The New York Times</media:credit>
+      <media:description>The village of Govedartsi, Bulgaria. The area’s mountains form the highest peaks in the Balkans.</media:description>
+    </item>
+    <item>
+      <title>Uber, Spain, Thanksgiving: Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2019/11/26/briefing/uber-spain-thanksgiving.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/26/briefing/uber-spain-thanksgiving.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/26/briefing/uber-spain-thanksgiving.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Here’s what you need to know.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 07:14:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taiwan Detains 2 Executives of Firm Accused of Spying for China</title>
+      <link>https://www.nytimes.com/2019/11/25/world/asia/taiwan-china-spying-elections.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/asia/taiwan-china-spying-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/asia/taiwan-china-spying-elections.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The executives were detained as officials look into accusations that the company’s workers intervened in Taiwan’s looming national election campaign.</description>
+      <dc:creator>Steven Lee Myers and Chris Horton</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 06:09:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defectors (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chinese Nationalist Party (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Han Kuo-yu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsai Ing-wen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang Liqiang</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kaohsiung (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taoyuan (Taiwan)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/world/26china-spy/26china-spy-moth.jpg" width="151"></media:content>
+      <media:credit>Ng Han Guan/Associated Press</media:credit>
+      <media:description>The building listed as the address of China Innovation Investment Limited in Hong Kong on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Alibaba’s Hong Kong Shares Rise, Despite Protests</title>
+      <link>https://www.nytimes.com/2019/11/25/business/dealbook/alibaba-hong-kong-shares.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/business/dealbook/alibaba-hong-kong-shares.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/business/dealbook/alibaba-hong-kong-shares.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The Chinese e-commerce giant raised $11.2 billion, the territory’s biggest tally since 2010, showing investor enthusiasm despite worsening demonstrations.</description>
+      <dc:creator>Alexandra Stevenson</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 09:58:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recession and Depression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/business/25alibaba/25alibaba-moth.jpg" width="151"></media:content>
+      <media:credit>Aly Song/Reuters</media:credit>
+      <media:description>At work at Alibaba’s headquarters in Hangzhou, China.</media:description>
+    </item>
+    <item>
+      <title>2 Priests Convicted in Argentina of Sexual Abuse of Deaf Children</title>
+      <link>https://www.nytimes.com/2019/11/25/world/americas/argentina-catholic-priests-sex-abuse.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/americas/argentina-catholic-priests-sex-abuse.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/americas/argentina-catholic-priests-sex-abuse.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The priests at a now-shuttered school in Mendoza were each sentenced to more than 40 years in prison; a former gardener was sentenced to 18 years.</description>
+      <dc:creator>Daniel Politi and Karen Zraick</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 01:53:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mendoza (Argentina)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/multimedia/25xp-argentina2/merlin_165020262_0226f20c-73ce-41b4-971e-f07f3cc8f049-moth.jpg" width="151"></media:content>
+      <media:credit>Andres Larrovere/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Some of the victims who accused the priests of sexual abuse celebrated on Monday after learning the court’s verdict.</media:description>
+    </item>
+    <item>
+      <title>Rabbi Henry Sobel, 75, Dies; Defied Brazil’s Military Rulers</title>
+      <link>https://www.nytimes.com/2019/11/25/world/americas/rabbi-henry-sobel-dead.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/americas/rabbi-henry-sobel-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/americas/rabbi-henry-sobel-dead.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The leader of the largest liberal Jewish congregation in Latin America, he took a stand when a journalist was killed by his torturers in 1975.</description>
+      <dc:creator>Matt Sandy</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 00:45:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sobel, Henry (1944-2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rabbis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/27/obituaries/25Sobel1/25Sobel1-moth.jpg" width="151"></media:content>
+      <media:credit>Nilton Fukuda/Agencia Estado, via Associated Press</media:credit>
+      <media:description>Rabbi Henry Sobel in 2013 at his home in the Higienopolis neighborhood of S&amp;atilde;o Paulo. He led the largest liberal Jewish congregation in Latin America.</media:description>
+    </item>
+    <item>
+      <title>Peru Court Frees Keiko Fujimori From Preliminary Detention</title>
+      <link>https://www.nytimes.com/2019/11/25/world/americas/peru-keiko-fujimori.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/americas/peru-keiko-fujimori.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/americas/peru-keiko-fujimori.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Peru’s Constitutional Tribunal approved a habeas corpus request to the free opposition leader Keiko Fujimori from preliminary detention while she is investigated for alleged corruption.</description>
+      <dc:creator>The Associated Press</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 23:02:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fujimori, Keiko</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fujimori, Alberto K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Habeas Corpus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+    </item>
+    <item>
+      <title>Koalas Aren’t Extinct, but Their Future Is in Danger, Experts Say</title>
+      <link>https://www.nytimes.com/2019/11/25/world/australia/koala-fires-functionally-extinct.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/australia/koala-fires-functionally-extinct.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/australia/koala-fires-functionally-extinct.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Claims that koalas were “functionally extinct” spread widely online as fires raged in Australia. But some scientists warned of the dangers of exaggeration.</description>
+      <dc:creator>Jacey Fortin</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 13:58:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Koalas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forbes Magazine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/15/reader-center/25xp-koalas/25xp-koalas-moth.jpg" width="151"></media:content>
+      <media:credit>Saeed Khan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A dehydrated and injured koala received treatment at the Port Macquarie Koala Hospital this month after it was rescued from a bush fire on Australia’s east coast.</media:description>
+    </item>
+    <item>
+      <title>On Day to End Violence Against Women, Spain’s Far Right Champions Men</title>
+      <link>https://www.nytimes.com/2019/11/25/world/europe/spain-vox-ortega-smith-violence-women.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/europe/spain-vox-ortega-smith-violence-women.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/europe/spain-vox-ortega-smith-violence-women.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Fresh from a strong showing at the polls, members of the ultranationalist Vox party have called for the repeal of a law that protects women from violence.</description>
+      <dc:creator>Raphael Minder</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 21:36:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vox (Spanish Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25spain-sub/25spain-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Oscar Del Pozo/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Demonstrators gathered in Madrid on Monday to mark the International Day for the Elimination of Violence Against Women.</media:description>
+    </item>
+    <item>
+      <title>Hong Kong, ISIS, Julian Assange: Your Tuesday Briefing</title>
+      <link>https://www.nytimes.com/2019/11/25/briefing/hong-kong-isis-julian-assange.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/briefing/hong-kong-isis-julian-assange.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/briefing/hong-kong-isis-julian-assange.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Let us help you start your day.</description>
+      <dc:creator>Andrea Kannapell</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 23:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Truck Driver Pleads Guilty to 2 Charges in Essex Deaths</title>
+      <link>https://www.nytimes.com/2019/11/25/world/europe/lorry-deaths-essex-truck-driver.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/europe/lorry-deaths-essex-truck-driver.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/europe/lorry-deaths-essex-truck-driver.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The 25-year-old, one of three people charged after dozens of Vietnamese were found dead in a refrigerated truck in Britain last month, faces 41 additional counts.</description>
+      <dc:creator>Iliana Magra</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 16:48:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Criminal Court of England and Wales (Old Bailey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robinson, Maurice (Essex, England, Trafficking Deaths)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Christopher (Essex, England, Trafficking Deaths)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25uk-lorry/25uk-lorry-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Stansall/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The scene where 39 people were found dead in a tractor-trailer in Essex, east of London, last month.</media:description>
+    </item>
+    <item>
+      <title>Julian Assange ‘Could Die’ in U.K. Jail, Doctors Warn</title>
+      <link>https://www.nytimes.com/2019/11/25/world/europe/julian-assange-health.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/europe/julian-assange-health.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/europe/julian-assange-health.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>More than 60 physicians signed a letter saying that the WikiLeaks founder might not survive until February unless he receives an urgent expert medical assessment.</description>
+      <dc:creator>Ceylan Yeginsu</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 17:55:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assange, Julian P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25assange-sub2/25assange-sub2-moth.jpg" width="151"></media:content>
+      <media:credit>Henry Nicholls/Reuters</media:credit>
+      <media:description>Julian Assange after the British police arrested him at the Ecuadorean Embassy in London  in April.</media:description>
+    </item>
+    <item>
+      <title>France Announces New Measures to Tackle Domestic Violence</title>
+      <link>https://www.nytimes.com/2019/11/25/world/europe/france-domestic-violence.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/europe/france-domestic-violence.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/europe/france-domestic-violence.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Advocacy groups welcomed a surge of awareness, but said the government’s proposals did not go far enough, and were not supported with nearly enough money.</description>
+      <dc:creator>Aurelien Breeden</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 16:54:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Philippe, Edouard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+    </item>
+    <item>
+      <title>Hong Kong Election Landslide Signals More Frictions With Beijing</title>
+      <link>https://www.nytimes.com/2019/11/25/world/asia/hong-kong-election-protests.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/asia/hong-kong-election-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/asia/hong-kong-election-protests.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Democracy supporters were emboldened by capturing most of the seats in local elections, but Beijing and its allies are reluctant to compromise.</description>
+      <dc:creator>Keith Bradsher</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 22:50:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lam, Carrie (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25hk-analysis1/25hk-analysis1-moth.jpg" width="151"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>Counting votes of the Hong Kong district council elections at a polling station in the Tuen Mun neighborhood on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Scientists Created Fake Rhino Horn. But Should We Use It?</title>
+      <link>https://www.nytimes.com/2019/11/25/science/synthetic-rhino-horn.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/science/synthetic-rhino-horn.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/science/synthetic-rhino-horn.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Experts are divided over whether flooding the Asian market with convincing artificial rhino horn would help or hurt rhinos’ survival.</description>
+      <dc:creator>Rachel Nuwer</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 15:31:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rhinoceroses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poaching (Wildlife)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemistry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scientific Reports (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vollrath, Fritz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fudan University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oxford University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/26/science/26SCI-RHINOHORN1/26SCI-RHINOHORN1-moth.jpg" width="151"></media:content>
+      <media:credit>Baz Ratner/Reuters</media:credit>
+      <media:description>An African black rhino in the Singita Grumeti Game Reserve in Tanzania. Africa&amp;rsquo;s rhino population is about 24,500 animals, but poaching remains a threat.</media:description>
+    </item>
+    <item>
+      <title>Michael Bloomberg, Hong Kong, Tiffany: Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2019/11/25/briefing/michael-bloomberg-hong-kong-tiffany.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/briefing/michael-bloomberg-hong-kong-tiffany.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/briefing/michael-bloomberg-hong-kong-tiffany.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Here&#39;s what you need to know.</description>
+      <dc:creator>Mike Ives</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 13:53:33 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25usbriefing-amcore/25usbriefing-amcore-moth.jpg" width="151"></media:content>
+    </item>
+    <item>
+      <title>Uber Is Fighting to Survive in London After Losing Its License</title>
+      <link>https://www.nytimes.com/2019/11/25/business/uber-london.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/business/uber-london.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/business/uber-london.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The company is at odds with regulators and drivers of traditional cabs in its most lucrative European market.</description>
+      <dc:creator>Adam Satariano and Amie Tsang</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 07:53:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transport for London</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25uber/25uber-moth.jpg" width="151"></media:content>
+      <media:credit>Peter Summers/Getty Images</media:credit>
+      <media:description>Uber’s offices in London. The company said it would appeal a decision not to extend its license in the city, setting off what could be a long legal process. </media:description>
+    </item>
+    <item>
+      <title>Pope Francis, in Japan, Warns of ‘Selfish Decisions’ on Nuclear Energy</title>
+      <link>https://www.nytimes.com/2019/11/25/world/asia/pope-francis-japan-nuclear.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/asia/pope-francis-japan-nuclear.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/asia/pope-francis-japan-nuclear.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Making the first visit to the country by a pope in 38 years, Francis called for an end to the nuclear arms race in visits to Hiroshima and Nagasaki.</description>
+      <dc:creator>Motoko Rich</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 05:44:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Japan Earthquake and Tsunami (2011)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+    </item>
+    <item>
+      <title>Meet 5 of Hong Kong’s Newest Politicians</title>
+      <link>https://www.nytimes.com/2019/11/25/world/asia/hong-kong-election-winners.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/asia/hong-kong-election-winners.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/asia/hong-kong-election-winners.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The pro-democracy camp’s stunning victory in citywide district elections means a younger class of political neophytes will soon take office.</description>
+      <dc:creator>Austin Ramzy</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 11:04:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Alliance for the Betterment and Progress of Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25HK-winners-sub/25HK-winners-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>Pro-democracy winning candidates outside the campus of Hong Kong Polytechnic University on Monday.</media:description>
+    </item>
+    <item>
+      <title>Suicides by K-Pop Stars Prompt Soul-Searching in South Korea</title>
+      <link>https://www.nytimes.com/2019/11/25/world/asia/goo-hara-kpop-suicide.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/asia/goo-hara-kpop-suicide.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/asia/goo-hara-kpop-suicide.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Two beloved female stars, Sulli and Goo Hara, ended their own lives in two months, exposing the painful side of being a K-pop idol.</description>
+      <dc:creator>Choe Sang-Hun and Su-Hyun Lee</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 16:33:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BTS (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sulli (1994-2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goo Hara (1991-2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-hyun (1990-2017)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25skorea-kpop1/25skorea-kpop1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Chung Sung-Jun</media:credit>
+      <media:description>A memorial altar paying homage to the K-pop star Goo Hara at the Seoul St. Mary&#39;s Hospital in Seoul, South Korea, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Why Giuliani Singled Out 2 Ukrainian Oligarchs to Help Look for Dirt</title>
+      <link>https://www.nytimes.com/2019/11/25/us/giuliani-ukraine-oligarchs.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/us/giuliani-ukraine-oligarchs.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/us/giuliani-ukraine-oligarchs.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Inside a strategy to leverage damaging information on Joe Biden from foreign citizens who were politically powerful — and legally vulnerable.</description>
+      <dc:creator>Jo Becker, Walt Bogdanich, Maggie Haberman and Ben Protess</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 16:35:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuliani, Rudolph W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kolomoisky, Igor V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Firtash, Dmitry V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parnas, Lev</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fruman, Igor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/us/25rudy-firtash/00rudy-firtash-moth.jpg" width="151"></media:content>
+      <media:credit>Simon Dawson/Bloomberg, via Getty Images</media:credit>
+      <media:description>Dmitry Firtash, a Ukrainian energy tycoon facing criminal charges in the United States, says he was offered help with his legal problems during a meeting with two Giuliani associates.</media:description>
+    </item>
+    <item>
+      <title>American Aid Worker for U.N. Is Killed in Afghan Capital</title>
+      <link>https://www.nytimes.com/2019/11/25/world/asia/american-un-killed-afghanistan.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/asia/american-un-killed-afghanistan.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/asia/american-un-killed-afghanistan.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The killing of the United Nations employee underscores the growing threat to aid workers at a time Afghanistan is in dire need of humanitarian assistance.</description>
+      <dc:creator>Mujib Mashal</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 04:24:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Targeted Killings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Afghan National Security Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25afghanistan/25afghanistan-moth.jpg" width="151"></media:content>
+      <media:credit>Rahmat Gul/Associated Press</media:credit>
+      <media:description>Afghan security workers at the site of an explosion in Kabul on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Tiffany’s, Davis Cup, Tories: Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2019/11/25/briefing/tiffanys-davis-cup-tories.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/briefing/tiffanys-davis-cup-tories.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/briefing/tiffanys-davis-cup-tories.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Let us help you start your day.</description>
+      <dc:creator>Andrea Kannapell</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 05:48:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Across Northern England, Labour’s ‘Red Wall’ Is Showing Cracks</title>
+      <link>https://www.nytimes.com/2019/11/25/world/europe/uk-election-conservatives-labour.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/25/world/europe/uk-election-conservatives-labour.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/25/world/europe/uk-election-conservatives-labour.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>As in America, Britain’s rust belt regions are turning to the right, possibly heralding a realignment in next month’s general election.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 14:37:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brexit Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Corbyn, Jeremy (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kirkby-in-Ashfield (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ashfield District (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/23/world/xxashfield-election2/xxashfield-election2-moth-v4.jpg" width="151"></media:content>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <media:description>Gloria De Piero, left, the outgoing Labour lawmaker for Ashfield, campaigning with Natalie Fleet, the candidate who hopes to replace her.</media:description>
+    </item>
+    <item>
+      <title>British Man and Filipino Woman Rescued From Kidnappers in Philippines</title>
+      <link>https://www.nytimes.com/2019/11/24/world/asia/british-man-kidnapped-philippines-rescued.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/24/world/asia/british-man-kidnapped-philippines-rescued.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/24/world/asia/british-man-kidnapped-philippines-rescued.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The husband and wife were rescued by soldiers after insurgents came under attack and abandoned the couple.</description>
+      <dc:creator>Jason Gutierrez</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 15:21:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Abu Sayyaf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hapilon, Isnilon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25philippines1/25philippines1-moth.jpg" width="151"></media:content>
+      <media:credit>Jes Aznar for The New York Times</media:credit>
+      <media:description>Filipino soldiers disembarking from an aircraft in Zamboanga, the Philippines, after battling Abu Sayyaf militants in February. The militant group has been blamed in many kidnappings.</media:description>
+    </item>
+    <item>
+      <title>Luis Lacalle Pou Leads in Tight Uruguay Election, but Ballot Counting Continues</title>
+      <link>https://www.nytimes.com/2019/11/24/world/americas/uruguay-election.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/24/world/americas/uruguay-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/24/world/americas/uruguay-election.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The ruling leftist party appears to be on its way out after nearly 15 years, as slow economic growth drags down incumbents.</description>
+      <dc:creator>Daniel Politi and Ernesto Londoño</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 15:15:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uruguay</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lacalle, Luis Alberto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25uruguay-print/24uruguay-hfo-moth.jpg" width="151"></media:content>
+      <media:credit>Mariana Greif/Reuters</media:credit>
+      <media:description>Luis Lacalle Pou of Uruguay’s National Party voting on Sunday in Canelones. His victory was a setback for leftists in the region.</media:description>
+    </item>
+    <item>
+      <title>Cargo Ship With Almost 15,000 Sheep Overturns Near Romania</title>
+      <link>https://www.nytimes.com/2019/11/24/world/europe/romanian-sheep-cargo-ship.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/24/world/europe/romanian-sheep-cargo-ship.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/24/world/europe/romanian-sheep-cargo-ship.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A rescue operation was underway to save the animals in the Black Sea.</description>
+      <dc:creator>Mihir Zaveri and Neil Vigdor</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 04:21:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sheep</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
+      <category domain="">The Queen Hind</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/24/multimedia/24xp-sheep/24xp-sheep-moth.jpg" width="151"></media:content>
+      <media:credit>IGSU Romania/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Thirty-two sheep were rescued, including two that were in the water, officials said on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Egypt Escalates Pressure on Last Major Independent News Site</title>
+      <link>https://www.nytimes.com/2019/11/24/world/middleeast/egypt-news-press-censorship.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/24/world/middleeast/egypt-news-press-censorship.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/24/world/middleeast/egypt-news-press-censorship.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Security forces raided the publication’s office, detaining three editors, the day after arresting another editor.</description>
+      <dc:creator>Nada Rashwan</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 11:55:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sisi, Abdel Fattah el-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+    </item>
+    <item>
+      <title>Your Monday Briefing</title>
+      <link>https://www.nytimes.com/2019/11/24/briefing/hong-kong-xinjiang-davis-cup.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/24/briefing/hong-kong-xinjiang-davis-cup.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/24/briefing/hong-kong-xinjiang-davis-cup.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Let us help you start your day. </description>
+      <dc:creator>Andrea Kannapell</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 00:17:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hong Kong Election Results Give Democracy Backers Big Win</title>
+      <link>https://www.nytimes.com/2019/11/24/world/asia/hong-kong-election-results.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/24/world/asia/hong-kong-election-results.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/24/world/asia/hong-kong-election-results.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A surge in voting, especially by young people, allowed democracy advocates to win many more seats on local councils.</description>
+      <dc:creator>Keith Bradsher, Austin Ramzy and Tiffany May</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 18:38:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hong Kong Protests (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lam, Carrie (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/24/world/24hk-elect-sub-copy/24hk-elect-sub-copy-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>Democracy supporters celebrating in Hong Kong on Sunday night outside a polling station.</media:description>
+    </item>
+    <item>
+      <title>Leaked China Files Show Internment Camps Are Ruled by Secrecy and Spying</title>
+      <link>https://www.nytimes.com/2019/11/24/world/asia/leak-chinas-internment-camps.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/24/world/asia/leak-chinas-internment-camps.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/24/world/asia/leak-chinas-internment-camps.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A secret document reflects leaders’ struggle to manage Xinjiang sites swelling with Muslim detainees.</description>
+      <dc:creator>Austin Ramzy and Chris Buckley</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 15:10:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kazakhs (Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Consortium of Investigative Journalists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/22/world/00xj-document1/merlin_158992575_502fe990-609f-43af-a895-95d08ff839a2-moth.jpg" width="151"></media:content>
+      <media:credit>Gilles Sabrié for The New York Times</media:credit>
+      <media:description>Officials have taken journalists and diplomats to visit this indoctrination camp in Xinjiang, China. </media:description>
+    </item>
+    <item>
+      <title>How an Unknown Female Senator Came to Replace the Bolivian President Evo Morales</title>
+      <link>https://www.nytimes.com/2019/11/24/world/americas/how-an-unknown-female-senator-came-to-replace-the-bolivian-president-evo-morales.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/24/world/americas/how-an-unknown-female-senator-came-to-replace-the-bolivian-president-evo-morales.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/24/world/americas/how-an-unknown-female-senator-came-to-replace-the-bolivian-president-evo-morales.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Inside the scramble to fill the power vacuum and name a leader to guide the country out of political chaos.</description>
+      <dc:creator>Anatoly Kurmanaev and Cesar Del Castillo</dc:creator>
+      <pubDate>Tue, 26 Nov 2019 23:17:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morales, Evo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anez Chavez, Jeanine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bolivia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Cruz (Bolivia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Movement to Socialism (Bolivia)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/24/us/24bolivia-ticktok2-promo/24bolivia-ticktok2-promo-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Daniel Berehulak for The New York Times</media:credit>
+      <media:description>Evo Morales, the former president of Bolivia, during a visit to The New York Times bureau in Mexico City.</media:description>
+    </item>
+    <item>
+      <title>New Suspect Charged in Trafficking After Truck Deaths in Britain</title>
+      <link>https://www.nytimes.com/2019/11/24/world/europe/essex-lorry-bodies-charge.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/24/world/europe/essex-lorry-bodies-charge.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/24/world/europe/essex-lorry-bodies-charge.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Christopher Kennedy of Northern Ireland stands accused a month after the bodies of 39 Vietnamese were found in a refrigerated trailer in southern England.</description>
+      <dc:creator>Yonette Joseph</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 17:37:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robinson, Maurice (Essex, England, Trafficking Deaths)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Christopher (Essex, England, Trafficking Deaths)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/24/world/24uk-bodies/24uk-bodies-moth.jpg" width="151"></media:content>
+      <media:credit>Hannah Mckay/Reuters</media:credit>
+      <media:description>Police experts investigating the trailer where the bodies were found in Grays, England, in October.</media:description>
+    </item>
+    <item>
+      <title>Goo Hara, K-Pop Star of the Group Kara, Is Found Dead</title>
+      <link>https://www.nytimes.com/2019/11/24/arts/goo-hara-dead.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/24/arts/goo-hara-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/24/arts/goo-hara-dead.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The 28-year-old singer, known as Hara, was found in her home on Sunday in Seoul, South Korea.</description>
+      <dc:creator>Johnny Diaz</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 14:00:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="">K-pop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goo Hara (1991-2019)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/24/world/24xp-kpop/24xp-kpop-moth.jpg" width="151"></media:content>
+      <media:credit>Han Myung-Gu/WireImage, via Getty Images</media:credit>
+      <media:description>Goo Hara embarked on a solo career in 2015 and also had some television and film roles.</media:description>
+    </item>
+    <item>
+      <title>Voters in Romania Reject Years of Scandals and Chaos</title>
+      <link>https://www.nytimes.com/2019/11/24/world/europe/romania-election.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/24/world/europe/romania-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/24/world/europe/romania-election.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>President Klaus Iohannis claimed victory as his challenger, Viorica Dancila, conceded.</description>
+      <dc:creator>Kit Gillet and Marc Santora</dc:creator>
+      <pubDate>Mon, 25 Nov 2019 15:19:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Iohannis, Klaus W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dancila, Viorica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/world/25Romania-election-print/24Romania-election1-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Mihailescu/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>President Klaus Iohannis of Romania after casting his ballot in Bucharest, Romania, on Sunday.</media:description>
+    </item>
+  </channel>
+</rss>
