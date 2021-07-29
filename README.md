@@ -12,25 +12,25 @@ Entre na pasta do trabalho e insira os seguintes comandos:
 
 ## Descrição do código
 
-Modulo: 
+#### Modulo: 
 * feed_rss.c 
 
-Descrição: 
+#### Descrição: 
 * Faz a leitura de um arquivo RSS (Really Simple Syndication) .xml e gera um arquivo .html denominado "rss" com as seguintes informações das notícias e do canal:
 
-Canal:
+#### Canal:
 * Título do canal
 * Descrição do canal
 * Link do canal
 
-Notícia:
+#### Notícia:
 * Título da notícia
 * Descrição da notícia
 * Link (se disponível)
 * Data de publicação se disponível
 
 
-Observações:
+#### Observações:
 
 * Ao gerar o arquivo .html é possivel que algumas tags como "<![CDATA[]]>" sejam escritas no arquivo, o que pode alterar algumas informações.
 
