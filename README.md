@@ -10,7 +10,7 @@ Entre na pasta do trabalho e insira os seguintes comandos:
     make all
     ./main
 
-##Descrição do código
+## Descrição do código
 
 Modulo: 
 * feed_rss.c 
@@ -35,12 +35,12 @@ Observações:
 * Ao gerar o arquivo .html é possivel que algumas tags como "<![CDATA[]]>" sejam escritas no arquivo, o que pode alterar algumas informações.
 
 
-##Fonte de dados
+## Fonte de dados
 
 * A fonte de dados escolhida foi retirada do New York Times.
 * link para download do feed ultilizado: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
 
-##Integrantes do grupo
+## Integrantes do grupo
 
 Heloise Katharine Pereira Silva 
 Kacio Felipe 
