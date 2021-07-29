@@ -42,8 +42,11 @@ Observações:
 
 ## Integrantes do grupo
 
-Heloise Katharine Pereira Silva 
+Heloise Katharine Pereira Silva
+
 Kacio Felipe 
+
 Ruan Soares Barroso 
+
 Jaied dos Santos Pires
 
