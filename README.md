@@ -3,7 +3,7 @@
 Trabalho referente a disciplina de Programação de Computadores I (PC1)
 ***
 
-##Instruções para a compilação
+## Instruções para a compilação
 
 Entre na pasta do trabalho e insira os seguintes comandos:
 
